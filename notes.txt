@@ -1,3 +1,5 @@
+for php create your programs in your htdocs folder and run your local XAAMP Server (windows OS)
+
 http://localhost/phpmyadmin/  => this is home to your phpmyadmin
 http://localhost/phpmyadmin/server_databases.php => this is home to your phpmyadmin server_databases home pg
 
