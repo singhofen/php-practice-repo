@@ -1,0 +1,4 @@
+http://localhost/phpmyadmin/  => this is home to your phpmyadmin
+http://localhost/phpmyadmin/server_databases.php => this is home to your phpmyadmin server_databases home pg
+
+from there you can start to create your server_databases for php programs
