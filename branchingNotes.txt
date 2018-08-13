@@ -1,0 +1,31 @@
+notes about push branch to repo 
+
+(restAPIsandbox)
+$ git commit -m 'added api sandbox branch'
+[restAPIsandbox (root-commit) 4c243b3] added api sandbox branch
+ 3 files changed, 111 insertions(+)
+ create mode 100644 config.1/Database.php
+ create mode 100644 models/Post.php
+ create mode 100644 models/api/post/read.php
+
+$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+(restAPIsandbox)
+$ git remote add restAPIsandbox https://github.com/singhofen/php-practice-repo.git
+
+$ git push restAPIsandbox
+fatal: The current branch restAPIsandbox has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream restAPIsandbox restAPIsandbox
+
+$ git push --set-upstream restAPIsandbox restAPIsandbox
+
