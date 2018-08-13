@@ -32,5 +32,7 @@ Working on cloning repo's using git, gitbash, and github
 
 *********************
 right click > git BASH HERE > git init (initializes repo in that dir.) > start modifiying changes in your cloned repo > git status to see changes > git add . > git commint -m 'your message' > git push 
+ ********
+ after this process go to git repo and refresh to see any files/changes you have added to the repo 
 
 MIT License 
