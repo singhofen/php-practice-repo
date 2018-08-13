@@ -27,4 +27,10 @@ thats all, you maybe asked to login to github via SSH.
 Anyone is welcome to practice their php and gitflow with this repo.   simply clone or DL and go to work 
 
 ********************
+
+Working on cloning repo's using git, gitbash, and github
+
+*********************
+right click > git BASH HERE > git init (initializes repo in that dir.) > start modifiying changes in your cloned repo > git status to see changes > git add . > git commint -m 'your message' > git push 
+
 MIT License 
